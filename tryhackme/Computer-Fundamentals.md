@@ -3,9 +3,6 @@
 **Parcours :** Pre Security
 **Période :** novembre 2026
 
-## Vue d'ensemble
-[Ce que couvre le module, en 2 ou 3 phrases]
-
 ## Room 1 : Inside a computer System
 - **Ce que j'ai retenu :** J'ai appris de quoi était fait un PC fixe
 
@@ -22,11 +19,5 @@
 - **Vocabulaire :** Conteneur : une application emballée avec ce dont elle a besoin, qui partage le système de l'ordinateur hôte. Léger et rapide à lancer, mais moins isolé qu'une VM
 
 ## Room 5 : Cloud Computing
-- **Ce que j'ai retenu :**
-- **Vocabulaire :**
-- **Difficulté :**
-
-## Bilan du module
-- Ce que j'ai compris : [...]
-- Ce que je dois revoir : [...]
-- Lien avec mes cours : [par exemple le réseau vu en TP]
+- **Ce que j'ai retenu :** Les differents types de déploiement de cloud(public, private et hybrid, les différents model de cloud(IaaS, PaaS, SaaS) et comment gérer les différents serveur.
+- **Vocabulaire :** public Cloud : cloud que plusieurs personnes et entreprises partagent. <br> private Cloud : cloud créer pour une seule entreprise pour assurer la confidentialité de données sensible. <br> Hybrid Cloud : un mix de cloud publique et privé. <br> IaaS : louer des serveurs ou du stockage. <br> PaaS : louer un environnement déjà prêt pour créer et executer des applications. <br> SaaS : un logiciel qu'on utilise en ligne sans telechargement.
